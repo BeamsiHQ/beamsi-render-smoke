@@ -1,0 +1,8 @@
+{
+  "name": "beamsi-render-smoke",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
